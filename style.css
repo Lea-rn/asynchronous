@@ -1,0 +1,21 @@
+.card-container {
+  
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.card {
+
+    width: 24%;     
+    height: 460px;
+    margin: 0px 50px;
+    box-shadow: 1px 1px 30px black;
+    border-radius: 10px;
+}
+img {
+    width: 100%;
+}
+.card-information {
+    padding: 10px;
+}
